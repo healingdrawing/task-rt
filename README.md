@@ -18,7 +18,7 @@ grit:lab Åland Islands 2023
 The order of the files in terminal command is important.  
 **Only ONE camera , ONE light, and multiple objects are allowed on scene.**  
 To create scene, create files with description of camera, light and objects.  
-Then use them as arguments of the program.  
+Then use them as arguments of the program execution command above.  
 **Name all files without extension.**
 
 ## Example
