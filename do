@@ -9,5 +9,5 @@ cargo build --release
 # jump up to root folder
 cd ..
 
-# copy release executable to  root folder level with same name
+# copy release executable to the root folder level with a nice name
 cp ./rt/target/release/rt ./we
